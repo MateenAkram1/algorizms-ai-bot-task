@@ -45,8 +45,8 @@ A lightweight AI chatbot and voice recognition assistant for truck drivers and d
 ### 1. Clone This Repo
 
 ```bash
-git <Link>
-cd directory
+git https://github.com/MateenAkram1/algorizms-ai-bot-task.git
+cd algorizms-ai-bot-task
 ```
 
 ### 2. Install Requirements
